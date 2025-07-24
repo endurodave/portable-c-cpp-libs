@@ -29,7 +29,7 @@ GitHub source code repositories categorized by library type.
 | [StdWorkerThread](https://github.com/endurodave/StdWorkerThread) | C++ | C++ `std::thread` event loop with message queue and timer. |
 | [ThreadWin](https://github.com/endurodave/ThreadWin) | C++ | Win32 `CreateThread()` C++ wrapper with synchronized thread startup. |
 
-## Memory Allocators
+## Fixed-Block Memory Allocators
 
 | Repository | Language | Description |
 |------------|----------|-------------|
@@ -78,6 +78,16 @@ GitHub source code repositories categorized by library type.
 |------------|----------|-------------|
 | [OBDII-Adapter-Software](https://github.com/endurodave/OBDII-Adapter-Software) | C | OBDII adapter source code and schematic for automotive diagnostic vehicle communication. |
 | [Async-SQLite](https://github.com/endurodave/Async-SQLite) | C++ | Asynchronous SQLite API using C++ delegates. |
+
+## Deprecated
+
+The current C++ delegate implementation is [DelegateMQ](https://github.com/endurodave/DelegateMQ). The following delegate-related repositories offer prior implementations.
+
+| Repository | Language | Description |
+|------------|----------|-------------|
+| [AsyncMulticastDelegateCpp17](https://github.com/endurodave/AsyncMulticastDelegateCpp17) | C++ | C++ delegates using C++17. |
+| [AsyncMulticastDelegateCpp11](https://github.com/endurodave/AsyncMulticastDelegateCpp11) | C++ | C++ delegates using C++11. |
+| [AsyncMulticastDelegate](https://github.com/endurodave/AsyncMulticastDelegate) | C++ | C++ delegates using C++03. |
 
 # License
 
