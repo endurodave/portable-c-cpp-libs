@@ -37,6 +37,7 @@ GitHub source code repositories categorized by library type.
 | [Allocator](https://github.com/endurodave/Allocator) | C++| C++ fixed-block memory allocator. |
 | [xallocator](https://github.com/endurodave/xallocator) | C++ | A fixed-block allocator `malloc`/`free` replacement. |
 | [stl_allocator](https://github.com/endurodave/stl_allocator) | C++ | A `std::allocator` compatible fixed-block memory allocator for the C++ Standard Library. |
+| [pmr_allocator](https://github.com/endurodave/pmr_allocator) | C++ | A C++ Polymorphic Memory Resource (PMR) fixed-block memory allocator. |
   
 ## Callbacks
 
