@@ -73,6 +73,8 @@ GitHub source code repositories categorized by library type.
 |------------|----------|-------------|
 | [IntegrationTestFramework](https://github.com/endurodave/IntegrationTestFramework) | C++ | Integration test framework using Google Test and C++ delegates. |
 | [IntegrationTestFrameworkCppUTest](https://github.com/endurodave/IntegrationTestFrameworkCppUTest) | C++ | Integration test framework using CppUTest and C++ delegates. |
+| [IntegrationTestFrameworkDoctest](https://github.com/endurodave/IntegrationTestFrameworkDoctest) | C++ | Integration test framework using doctest and C++ delegates. |
+
 ## Miscellaneous
 
 | Repository | Language | Description |
