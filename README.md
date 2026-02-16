@@ -1,6 +1,6 @@
 # Portable C/C++ Source Code Libraries
 
-A collection of C/C++ source code libraries for cross-platform embedded and PC-based software development.
+A collection of C/C++ source code libraries written by David Lafreniere for cross-platform embedded and PC-based software development.
 
 # GitHub Repositories
 
@@ -16,11 +16,11 @@ GitHub source code repositories categorized by library type.
 ## State Machines with Threads
 
 | Repository | Language | Description |
-|------------|----------|-------------|
-| [C_StateMachineWithThreads](https://github.com/endurodave/C_StateMachineWithThreads) | C | C-language state machine with threads. |
-| [StateMachineWithThreads](https://github.com/endurodave/StateMachineWithThreads) | C++ | C++ state machine with `std::thread`. |
-| [StateMachineWithModernDelegates](https://github.com/endurodave/StateMachineWithModernDelegates) | C++ | C++ state machine with C++ delegates. |
-| [AsyncStateMachine](https://github.com/endurodave/AsyncStateMachine) | C++ | Asynchronous C++ state machine implemented using C++ delegates. |
+| :--- | :--- | :--- |
+| [C_StateMachineWithThreads](https://github.com/endurodave/C_StateMachineWithThreads) | C | A C-language implementation of the Active Object pattern, featuring a thread-safe state machine with an integrated message queue. |
+| [StateMachineWithThreads](https://github.com/endurodave/StateMachineWithThreads) | C++ | A thread-safe C++ state machine utilizing `std::thread` to execute state transitions on a dedicated worker thread. |
+| [cpp-signal-slot-fsm](https://github.com/endurodave/cpp-signal-slot-fsm) | C++ | A thread-safe C++ state machine demonstrating **Signal-Slot communication** and RAII-managed asynchronous event marshaling via DelegateMQ. |
+| [AsyncStateMachine](https://github.com/endurodave/AsyncStateMachine) | C++ | A **native asynchronous state machine** implemented as an active object, where every transition is dispatched and executed within its own thread of control. |
 
 ## Threads
 
