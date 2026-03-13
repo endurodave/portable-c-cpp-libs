@@ -19,6 +19,7 @@ GitHub source code repositories categorized by library type.
 | :--- | :--- | :--- |
 | [C_StateMachineWithThreads](https://github.com/endurodave/C_StateMachineWithThreads) | C | A C-language implementation of the Active Object pattern, featuring a thread-safe state machine with an integrated message queue. |
 | [StateMachineWithThreads](https://github.com/endurodave/StateMachineWithThreads) | C++ | A thread-safe C++ state machine utilizing `std::thread` to execute state transitions on a dedicated worker thread. |
+| [delegate-fsm](https://github.com/endurodave/delegate-fsm) | C++ | A modern C++ state machine using delegates for state registration and async active-object dispatch. |
 | [cpp-signal-slot-fsm](https://github.com/endurodave/cpp-signal-slot-fsm) | C++ | A thread-safe C++ state machine demonstrating **Signal-Slot communication** and RAII-managed asynchronous event marshaling via DelegateMQ. |
 | [AsyncStateMachine](https://github.com/endurodave/AsyncStateMachine) | C++ | A **native asynchronous state machine** implemented as an active object, where every transition is dispatched and executed within its own thread of control. |
 
