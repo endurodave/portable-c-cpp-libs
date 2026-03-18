@@ -19,9 +19,7 @@ GitHub source code repositories categorized by library type.
 | :--- | :--- | :--- |
 | [C_StateMachineWithThreads](https://github.com/endurodave/C_StateMachineWithThreads) | C | A C-language implementation of the Active Object pattern, featuring a thread-safe state machine with an integrated message queue. |
 | [StateMachineWithThreads](https://github.com/endurodave/StateMachineWithThreads) | C++ | A thread-safe C++ state machine utilizing `std::thread` to execute state transitions on a dedicated worker thread. |
-| [async-fsm](https://github.com/endurodave/async-fsm) | C++ | A compact async C++ finite state machine providing RAII-safe asynchronous dispatch and pub/sub signals. |
-| [cpp-signal-slot-fsm](https://github.com/endurodave/cpp-signal-slot-fsm) | C++ | A thread-safe C++ state machine demonstrating **Signal-Slot communication** and RAII-managed asynchronous event marshaling via DelegateMQ. |
-| [AsyncStateMachine](https://github.com/endurodave/AsyncStateMachine) | C++ | A **native asynchronous state machine** implemented as an active object, where every transition is dispatched and executed within its own thread of control. |
+| [active-fsm](https://github.com/endurodave/active-fsm) | C++ | A compact active-object C++ finite state machine providing RAII-safe asynchronous dispatch and pub/sub signals. |
 
 ## Threads
 
@@ -92,6 +90,8 @@ The current C++ delegate implementation is [DelegateMQ](https://github.com/endur
 | [AsyncMulticastDelegateCpp17](https://github.com/endurodave/AsyncMulticastDelegateCpp17) | C++ | C++ delegates using C++17. |
 | [AsyncMulticastDelegateCpp11](https://github.com/endurodave/AsyncMulticastDelegateCpp11) | C++ | C++ delegates using C++11. |
 | [AsyncMulticastDelegate](https://github.com/endurodave/AsyncMulticastDelegate) | C++ | C++ delegates using C++03. |
+| [cpp-signal-slot-fsm](https://github.com/endurodave/cpp-signal-slot-fsm) | C++ | A thread-safe C++ state machine demonstrating **Signal-Slot communication** and RAII-managed asynchronous event marshaling via DelegateMQ. |
+| [AsyncStateMachine](https://github.com/endurodave/AsyncStateMachine) | C++ | A **native asynchronous state machine** implemented as an active object, where every transition is dispatched and executed within its own thread of control. |
 
 # License
 
