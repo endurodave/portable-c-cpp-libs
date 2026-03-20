@@ -74,12 +74,19 @@ GitHub source code repositories categorized by library type.
 | [IntegrationTestFrameworkCppUTest](https://github.com/endurodave/IntegrationTestFrameworkCppUTest) | C++ | Integration test framework using CppUTest and C++ delegates. |
 | [IntegrationTestFrameworkDoctest](https://github.com/endurodave/IntegrationTestFrameworkDoctest) | C++ | Integration test framework using doctest and C++ delegates. |
 
-## Miscellaneous
+## Database
+
+| Repository | Language | Description |
+|------------|----------|-------------|
+| [Async-SQLite](https://github.com/endurodave/Async-SQLite) | C++ | An asynchronous SQLite thread-safe wrapper implemented using an asynchronous delegate library. |
+| [Async-DuckDB](https://github.com/endurodave/Async-DuckDB) | C++ | An asynchronous DuckDB thread-safe wrapper implemented using an asynchronous delegate library. |
+
+## Automotive
 
 | Repository | Language | Description |
 |------------|----------|-------------|
 | [OBDII-Adapter-Software](https://github.com/endurodave/OBDII-Adapter-Software) | C | OBDII adapter source code and schematic for automotive diagnostic vehicle communication. |
-| [Async-SQLite](https://github.com/endurodave/Async-SQLite) | C++ | Asynchronous SQLite API using C++ delegates. |
+
 
 ## Deprecated
 
